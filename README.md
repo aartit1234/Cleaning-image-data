@@ -16,5 +16,5 @@
 
 #Files in use
 - kaggle.json (raw data)
-- (Source code)
+- A_clean_image_data.ipynb (source code)
 - (Presentation)
